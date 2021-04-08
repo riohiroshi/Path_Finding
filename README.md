@@ -14,3 +14,7 @@ Right click to reset path finding.
 
 ## A*
 ![alt_text](/misc~/AStar.png)
+
+
+
+fadsfasd
