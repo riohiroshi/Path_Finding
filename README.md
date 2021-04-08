@@ -5,13 +5,13 @@ Left click to set points. First click to set start point, second click to set en
 Right click to reset path finding.
 
 ## DFS
-![alt_text](/misc~/DFS.png)
+![alt_text] (/misc~/DFS.png)
 
 
 ## BFS
-![alt_text](/misc~/BFS.png)
+![alt_text] (/misc~/BFS.png)
 
 fasdfasd
 
 ## A*
-![alt_text](/misc~/AStar.png)
+![alt_text] (/misc~/AStar.png)
