@@ -15,7 +15,3 @@ fasdfasd
 
 ## A*
 ![alt_text](/misc~/AStar.png)
-
-
-
-fadsfasd
