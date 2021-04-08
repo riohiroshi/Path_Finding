@@ -11,6 +11,7 @@ Right click to reset path finding.
 ## BFS
 ![alt_text](/misc~/BFS.png)
 
+fasdfasd
 
 ## A*
 ![alt_text](/misc~/AStar.png)
