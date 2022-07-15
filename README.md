@@ -5,12 +5,11 @@ Left click to set points. First click to set start point, second click to set en
 Right click to reset path finding.
 
 ## DFS
-![alt_text] (/misc~/DFS.png)
-
+![alt_text](https://github.com/riohiroshi/Path_Finding/blob/main/misc%7E/DFS.png)
 
 ## BFS
-![alt_text] (/misc~/BFS.png)
+![alt_text](https://github.com/riohiroshi/Path_Finding/blob/main/misc%7E/BFS.png)
 
 
 ## A*
-![alt_text] (/misc~/AStar.png)
+![alt_text](https://github.com/riohiroshi/Path_Finding/blob/main/misc%7E/AStar.png)
